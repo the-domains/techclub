@@ -1,0 +1,28 @@
+name: Tech Club
+favicon: null
+layout_spectrum: 0.3990152052138001
+typography_spectrum: 0.07502312283031642
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5798688898794353
+  lightness: 0.9776073165703565
+  saturation: 0.289278413169086
+  rhythmicContrast: 0.9174617896787822
+purpose: []
